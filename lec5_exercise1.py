@@ -1,0 +1,10 @@
+# Code a calculator
+a=input("Enter first number:")
+b=input("Enter second number:")
+print("Addition of",a,"and",b,"is",int(a)+int(b))
+print("Substraction of",b,"from",a,"is",int(a)-int(b)) 
+print("Multiplication of",a,"and",b,"is",int(a)*int(b)) 
+print(a,"to the power of",b,"is",int(a)**int(b)) 
+print(a,"divided by",b,"is",int(a)/int(b)) 
+print(a,"floor divided by",b,"is",int(a)//int(b)) 
+print(a,"modulas",b,"is",int(a)%int(b))  
